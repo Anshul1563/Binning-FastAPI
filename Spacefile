@@ -6,3 +6,4 @@ micros:
     engine: python3.9
     dev: .venv/bin/uvicorn main:app --reload
     primary: true
+    public: true
